@@ -1,6 +1,8 @@
 # DoS-PREMIUM
 DoS Tool for Educational Purposes and learning about how Black Hats and Malicious Hackers operate.
 
+(images/image.png)   
+
 ## DOS-PREMIUM
 A lightweight, CLI-based HTTP Stress Test tool written in Python.
 Built by Zed for educational cybersecurity and quick server-load testing.
