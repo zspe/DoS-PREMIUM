@@ -1,6 +1,8 @@
 # DoS-PREMIUM
 DoS Tool for Educational Purposes and learning about how Black Hats and Malicious Hackers operate.
 
+![DOS-PREMIUM Banner](https://github.com/zspe/DoS-PREMIUM/raw/main/Image.png)
+
 
 
 ## DOS-PREMIUM
