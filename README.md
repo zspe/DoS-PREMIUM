@@ -1,7 +1,7 @@
 # DoS-PREMIUM
 DoS Tool for Educational Purposes and learning about how Black Hats and Malicious Hackers operate.
 
-(images/image.png)   
+![Alt Text](images/logo.png)   
 
 ## DOS-PREMIUM
 A lightweight, CLI-based HTTP Stress Test tool written in Python.
