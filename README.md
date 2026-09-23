@@ -1,13 +1,13 @@
 # DoS-PREMIUM
 DoS Tool for Educational Purposes and learning about how Black Hats and Malicious Hackers operate.
 
-##⚡ DOS-PREMIUM
+#⚡ DOS-PREMIUM
 A lightweight, CLI-based HTTP Stress Test tool written in Python.
 Built by Zed for educational cybersecurity and quick server-load testing.
 
 ## Note: This is a DoS (Denial of Service) tool, not a full DDoS. Results vary depending on the target’s server configuration and resilience.
 
-##✨ Features
+#✨ Features
 🚀 Multi-Threaded "Strong" Mode: Use up to 100 concurrent threads to spam the target.
 🐢 Single-Threaded "Weak" Mode: Simple request spamming for low-profile testing.
 ✅ Attack Checker: Verify if the target is down or responding to your load.
