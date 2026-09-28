@@ -12,7 +12,6 @@ Built by Zed for educational cybersecurity and quick server-load testing.
 ## Note: This is a DoS (Denial of Service) tool, not a full DDoS. Results vary depending on the target’s server configuration and resilience.
 
 
-https://github.com/zspe/DoS-PREMIUM/blob/main/Screenshot%202026-09-22%20181425.png?raw=true
 
 
 # ✨ Features
